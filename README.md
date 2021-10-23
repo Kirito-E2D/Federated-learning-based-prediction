@@ -6,6 +6,6 @@ The operational data from 13 similar office buildings can be downloaded from the
 
 These codes should be processed on Google Colaboratory or Jupyter.
 
-optimization is utilized to optimize the hyperparameters of ANN.
+federated model optimization.ipynb is utilized to optimize the hyperparameters of the federated model.
 
-fine tune.py is utilized to fine-tune the federated model using local data.
+fine-tune.ipynb is utilized to fine-tune the federated model using local data.

@@ -8,4 +8,4 @@ These codes should be processed on Google Colaboratory or Jupyter.
 
 federated model optimization.ipynb is utilized to optimize the hyperparameters of the federated model.
 
-fine-tune.ipynb is utilized to fine-tune the federated model using local data.
+fine-tune.py is utilized to fine-tune the federated model using local data.
